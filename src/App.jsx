@@ -12,10 +12,7 @@ function App() {
 console.log("🔥 NEW APP IS RUNNING");
   return (
     <>
-
-    
-    
-      <Navbar />
+    <Navbar />
       
 
       <Routes>
